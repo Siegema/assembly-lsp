@@ -3,6 +3,7 @@ module github.com/Siegema/assembly-lsp
 go 1.12
 
 require (
+	github.com/alecthomas/participle v0.3.0 // indirect
 	github.com/creachadair/jrpc2 v0.1.2
 	github.com/hashicorp/hcl2 v0.0.0-20191002203319-fb75b3253c80 // indirect
 	github.com/hashicorp/terraform v0.12.9 // indirect
